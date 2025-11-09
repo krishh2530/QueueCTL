@@ -8,6 +8,9 @@ The project consists of:
 - A **Flask-based backend (server.py)** that manages job execution, retries, and persistence.
 - A **CLI tool (queuectl.py)** built using _Click_, which communicates with the backend API.
 
+### Video Demo Link
+https://drive.google.com/file/d/1jTvJTJNAJt7RKI2Pm5T8ItLtne1qHiJK/view?usp=drive_link
+
 ### Features
 - Enqueue and manage jobs
 - Start/stop worker threads for job execution
