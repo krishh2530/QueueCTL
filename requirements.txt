@@ -1,0 +1,7 @@
+flask
+flask-sqlalchemy
+flask_cors
+flask_mysqldb
+requests
+pymysql
+click
